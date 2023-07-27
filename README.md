@@ -45,6 +45,24 @@ GitHub é uma plataforma que serve como repositório para armazenar os códigos-
 - GitLab;
 - Bitbucket;
 - Caliteia;
+
+**Linguagem Markdown converte textos em HTML**
+
+**Utilização:**
+- README.md (ou qualquer arquivo .md)
+- ISSUES
+- Pull Request
+
+Negrito : ** ex.: **Texto**
+Itálico:  __  ex.: _Texto_
+Título: ###  ex.: ###Texto
+Código: (Ctrl + e) ex.: 'Texto'
+Lista ordenada: - + texto ex.: - Texto
+Lista numerada: numero + hífen ex.: 1 - Texto
+Checklist de tarefa: Hífen + colchetes ex.: - [x] Tarefa1
+Link: Texto +[Clique Aqui] (url) 
+Emoji: : + nome do emoji ex.: :fire
+
 - Gogs.
 
 
