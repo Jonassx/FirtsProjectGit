@@ -1,4 +1,4 @@
-**GIT (VCS - Version Control System)**
+## GIT (VCS - Version Control System)
 
 Git é uma ferramenta de controle de versão muito utilizada na area de desenvolvimento de software.
 
@@ -31,7 +31,7 @@ Ferramentas de versionamento de códigos:
 **PUSH** = Coleta as informações do seu arquivo local e envia para o repositório remoto.
 
 
-**GITHUB**
+## GITHUB
 
 GitHub é uma plataforma que serve como repositório para armazenar os códigos-fonte do projeto e atualmente é uma rede social para os desenvolvedores.
 
@@ -47,7 +47,7 @@ GitHub é uma plataforma que serve como repositório para armazenar os códigos-
 - Caliteia;
 - Gogs.
 
-**Linguagem Markdown converte textos em HTML**
+### Linguagem Markdown
 
 **Utilização:**
 - README.md (ou qualquer arquivo .md)
