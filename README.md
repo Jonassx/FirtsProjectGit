@@ -2,19 +2,19 @@
 
 Git é uma ferramenta de controle de versão muito utilizada na area de desenvolvimento de software.
 
-**VCS Linear** -> Ferramenta que precisa estar conectado no servidor para realizar os commits; 
+**VCS Centralizado** -> é um tipo de sistema de controle de versão em que todos os arquivos e históricos de alterações são armazenados em um repositório centralizado; 
 
-**VCS Distribuído** -> Acessa um arquivo local e realiza os versionamentos do código localmente e faz um PUSH para o repositório remoto (GitHub).
+**VCS Distribuído** -> é um modelo de controle de versão em que cada desenvolvedor possui uma cópia completa do repositório, incluindo todo o histórico de alterações. Em vez de um único repositório central, como no VCS centralizado, cada cópia local é considerada um repositório completo e independente.
 
-Ferramentas de versionamento de códigos:
+### Ferramentas de versionamento de códigos:
 
-**Centralizado/Linear:**
--CCC
--SCCS
--CVS 
--SubVersion (SVN)
+**Centralizado:**
+- Microsoft Team Foundation Server (TFS)
+- Perforce
+- IBM Rational ClearCase
+- Apache Subversion (SVN)
 
-**Distribuído **(os mais utilizados e com mais funcionalidades atualmente):
+**Distribuído**(os mais utilizados e com mais funcionalidades atualmente):
 - BitKeeper
 - Git
 
