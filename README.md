@@ -45,6 +45,7 @@ GitHub é uma plataforma que serve como repositório para armazenar os códigos-
 - GitLab;
 - Bitbucket;
 - Caliteia;
+- Gogs.
 
 **Linguagem Markdown converte textos em HTML**
 
@@ -53,16 +54,14 @@ GitHub é uma plataforma que serve como repositório para armazenar os códigos-
 - ISSUES
 - Pull Request
 
-Negrito : ** ex.: **Texto**
-Itálico:  __  ex.: _Texto_
-Título: ###  ex.: ###Texto
-Código: (Ctrl + e) ex.: 'Texto'
-Lista ordenada: - + texto ex.: - Texto
-Lista numerada: numero + hífen ex.: 1 - Texto
-Checklist de tarefa: Hífen + colchetes ex.: - [x] Tarefa1
-Link: Texto +[Clique Aqui] (url) 
-Emoji: : + nome do emoji ex.: :fire
+**Exemplos:**
 
-- Gogs.
-
-
+- Negrito : utiliza dois asteriscos no início e no final do texto  (ex.: ** Texto **)
+- Itálico: utiliza dois underline no início e no final do texto __  (ex.: _ Texto _)
+- Título: utiliza de 1 a 3 hashtag no início do texto (ex.: ### Texto)
+- Código: (Ctrl + e) (ex.: 'Texto')
+- Lista ordenada: Utiliza um hífen junto com um espaço e o texto (ex.: - Texto)
+- Lista numerada: Utiliza um numero junto com um espaço, hífen e o texto (ex.: 1 - Texto)
+- Checklist de tarefa: Utiliza um Hífen + colchetes e o texto (ex.: - [x] Tarefa1)
+- Link: Texto +[Clique Aqui] (url) 
+- Emoji: : + nome do emoji ex.: :fire
