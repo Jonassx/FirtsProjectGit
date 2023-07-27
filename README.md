@@ -1,24 +1,24 @@
-GIT (VCS - Version Control System)
+**GIT (VCS - Version Control System)**
 
 Git é uma ferramenta de controle de versão muito utilizada na area de desenvolvimento de software.
 
-VCS Linear -> Ferramenta que precisa estar conectado no servidor para realizar os commits; 
+**VCS Linear** -> Ferramenta que precisa estar conectado no servidor para realizar os commits; 
 
-VCS Distribuído -> Acessa um arquivo local e realiza os versionamentos do código localmente e faz um PUSH para o repositório remoto (GitHub).
+**VCS Distribuído** -> Acessa um arquivo local e realiza os versionamentos do código localmente e faz um PUSH para o repositório remoto (GitHub).
 
 Ferramentas de versionamento de códigos:
 
-Centralizado/Linear:
+**Centralizado/Linear:**
 -CCC
 -SCCS
 -CVS 
 -SubVersion (SVN)
 
-Distribuído (os mais utilizados e com mais funcionalidades atualmente):
+**Distribuído **(os mais utilizados e com mais funcionalidades atualmente):
 - BitKeeper
 - Git
 
-Principais vantagens do Git:
+**Principais vantagens do Git:**
 
 - Controle de histórico;
 - Trabalho em equipe;
@@ -26,22 +26,22 @@ Principais vantagens do Git:
 - Segurança;
 - Organização.
 
-COMMIT = Salva os dados de acordo com as alterações realizadas, não necessariamente cria um novo arquivo, adiciona somente os códigos acrescentados ou alterados. 
+**COMMIT** = Salva os dados de acordo com as alterações realizadas, não necessariamente cria um novo arquivo, adiciona somente os códigos acrescentados ou alterados. 
 
-PUSH = Coleta as informações do seu arquivo local e envia para o repositório remoto.
+**PUSH** = Coleta as informações do seu arquivo local e envia para o repositório remoto.
 
 
-GITHUB
+**GITHUB**
 
 GitHub é uma plataforma que serve como repositório para armazenar os códigos-fonte do projeto e atualmente é uma rede social para os desenvolvedores.
 
-Vantagens:
+**Vantagens:**
 - Repositórios ilimitados;
 - Armazena código fonte de qualquer linguagem de programação;
 - Serve como rede social;
 - Colaboração;
 
-Outros repositórios existentes:
+**Outras ferramentas de repositório existentes:**
 - GitLab;
 - Bitbucket;
 - Caliteia;
