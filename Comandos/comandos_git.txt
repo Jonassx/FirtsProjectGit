@@ -1,0 +1,21 @@
+git init => cria um novo subdiretório chamado .git que contem todos os arquivos necessários de seu repositório
+
+git clone + url => Clona um repositório remoto localmente
+
+git status => Verifica o status do arquivos do repositório
+
+git commit -a -m "Mensagem" => Realiza um commit do status atual do arquivo
+
+git rm -f {arquivo} => Reome um arquivo do Git
+
+git mv {arquivo_origem} {arquivo_destino} => Renomear um arquivo no Git
+
+git branch {nome_da_branch} => Cria uma nova branch
+
+git checkout {nome_da_branch} => Muda para a branch informada
+
+git checkout -b {nome_da_branch} => Muda para branch informada, caso não exista, utiliza o parametro -b para cria-la.
+
+git merge {nome_da_branch} => Faz o merge entre as branchs
+
+
