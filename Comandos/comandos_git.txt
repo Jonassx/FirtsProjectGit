@@ -18,4 +18,14 @@ git checkout -b {nome_da_branch} => Muda para branch informada, caso não exista
 
 git merge {nome_da_branch} => Faz o merge entre as branchs
 
+git log => Mostra o históricos de todos os commits do repositório
 
+git tag => Cria uma tag para marcar ponto de release (v1.0)
+
+git pull origin {nome_da_branch} => Atualiza a branch caso haja atualizações remotamente.
+
+git push {nome_do_repositorio_remoto} {nome_da_branch} => Transfere os commits locais para o repositório remoto.
+
+git remote -v  => lista o caminho do servidor
+
+git diff => lista os itens que foram alterados
